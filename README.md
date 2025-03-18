@@ -1,3 +1,4 @@
+
 # The Blender Notebook Tutorial
 
 Every year I spend a few days researching new technology and software tools. The almost exponential growth of the IT industry is only possible through repeated breakthroughs and continuous investments in the latest technological inventions.
